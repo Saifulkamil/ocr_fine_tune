@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual Environments
+.env
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PaddleOCR specific, checkpoints, and models
+output/
+pretrained/
+result_model/
+reulst/
+log/
+__MACOSX/
+*.pdparams
+*.pdopt
+*.pdmodel
+*.pdiparams
+*.pdiparams.info
+
+# Data, datasets, images, and zips
+/data_test/
+/dataset/
+/data_set/
+/dataset_finetune/
+/dataset_kaggle/
+/downloaded_images_all/
+*.zip
