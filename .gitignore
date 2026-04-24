@@ -22,6 +22,7 @@ output/
 pretrained/
 result_model/
 reulst/
+PaddleOCR/
 log/
 __MACOSX/
 *.pdparams
@@ -36,5 +37,6 @@ __MACOSX/
 /data_set/
 /dataset_finetune/
 /dataset_kaggle/
+/PaddleOCR/
 /downloaded_images_all/
 *.zip
